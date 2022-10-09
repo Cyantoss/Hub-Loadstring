@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Snahple/Snahple-Productions-Hub/main/Hub"))()
